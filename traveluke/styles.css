@@ -1,4 +1,23 @@
+.carousel-inner{
+	font-family: 'K2D', sans-serif;
+}
 .navbar-brand {
 	font-family: 'Varela Round', sans-serif;
 	font-size: 25px !important;
 }
+
+@font-face {
+	font-family: 'Prompt';
+	src : url("Fonts/Prompt.woff2") format('woff2');
+}
+
+@font-face {
+	font-family: 'Taviraj';
+	src : url("fonts/Taviraj.woff2") format("woff2");
+}
+
+body {
+	background-image: url("images/background1.jpeg");
+	font-family: 'Prompt', sans-serif !important;
+}
+
