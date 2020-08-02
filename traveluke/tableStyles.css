@@ -1,5 +1,10 @@
 table {
     background-color: rgba(60, 122, 236, 0.6);
+    border-color: black;
+}
+table tbody tr td{
+    cursor: pointer;
+    background: rgba(118, 216, 255, 0.644);
 }
 table tbody tr td:hover{
     cursor: pointer;
